@@ -1,19 +1,3 @@
-# Mini-Banking-System
-Designing and simulating a small-scale digital banking system that handles customers, bank accounts, and transactions, emphasizing OOP principles, real-world logic, and data flow.
-
-
-
-
-
-
-
-Question
-
-Excellent — you’re building your OOP foundations properly.
-Here’s a **detailed, multi-level problem specification** for your next challenge:
-
----
-
 ## 🏦 **SmartBank — A Mini Banking Simulation System**
 
 ### 🎯 **Objective**
