@@ -1,0 +1,12 @@
+name: Issue Greeting
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say hello
+        run: echo "A new issue was just created!"
